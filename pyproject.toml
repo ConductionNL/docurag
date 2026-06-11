@@ -13,7 +13,7 @@ authors = [{ name = "Conduction" }]
 # Runtime dependencies
 dependencies = [
     "sentence-transformers",
-    "torch==2.4.0",
+    "torch==2.12.0",
     "pysolr",
     "fireworks-ai",
     "pydantic>=2",
